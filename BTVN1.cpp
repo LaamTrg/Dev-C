@@ -21,8 +21,8 @@ int main(){
 	
 	if(A<B+C && B<A+C && C<A+B){
 		printf("3 so nay du dieu kien lam do dai 3 canh tam giac \n");
-		printf("Chu vi tam giac: %f \n",x);
-		printf("Dien tich tam giac: %f",z);
+		printf("Chu vi tam giac: %g \n",x);
+		printf("Dien tich tam giac: %g",z);
 	}else{
 		printf("3 so nay khong du dieu kien lam do dai 3 canh tam giac");
 	}
