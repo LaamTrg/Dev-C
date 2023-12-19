@@ -16,5 +16,4 @@ int main(){
 		y = x;
 		printf("\nChu so dau tien cua %d la: %d", n, y);
 	}
-	return 0;
 }
