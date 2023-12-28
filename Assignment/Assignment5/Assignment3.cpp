@@ -9,8 +9,8 @@ int main(){
 		printf("Nhap gia tri thu %d: ",i);
 		scanf("%d",&arr[i]);
 	}
-	a = arr[0];
-	b = arr[0];
+	a = arr[1];
+	b = arr[1];
 	for(int i=1;i<=n;i++){
 		if(arr[i]<a){
 			a = arr[i];
