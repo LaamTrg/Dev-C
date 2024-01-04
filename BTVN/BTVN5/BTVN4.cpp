@@ -24,7 +24,6 @@ int main() {
 	}
 
     float x = tbc(n, arr);
-
     printf("Trung binh cong cua mang la: %g",x);
 }
 
